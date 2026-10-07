@@ -2,8 +2,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusceee" alt="rusceee" /></a> </p>
-
 - 🌱 I’m currently learning
 
 <h3 align="left">Connect with me:</h3>
